@@ -1,0 +1,147 @@
+/* start main rules */
+
+body {
+    height: 4000px;
+    background-color: #0d97a4;
+}
+
+.container {
+    width: 60% px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.header .slider {
+    height: 500px;
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.header h2 {
+    float: left;
+    color: #fff;
+    padding-left: 20px;
+}
+
+.header h2 span {
+    color: #449779;
+}
+
+.header .navbar {
+    background-color: #00213e;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.header .navbar ul {
+    list-style: none;
+    padding-left: 0%;
+    overflow: hidden;
+}
+
+.header .navbar ul li {
+    float: left;
+    padding: 10px;
+}
+
+
+/* end main rules */
+
+/*start features */
+.features {
+    overflow: hidden;
+}
+
+.features .feat {
+    float: left;
+    width: 33.3333%;
+    height: 150px;
+    background-color: #00213e;
+    color: aliceblue;}
+
+.features .feat h2 {
+    text-transform: uppercase;
+}
+
+/*end features */
+/*start about me */
+.aboutme {
+    background-color: #00213e;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    overflow: hidden;
+color: aliceblue;}
+
+.aboutme .container .image img {
+    width: 30%;
+    float: left;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+
+    right: 50px;
+
+padding-top: 10px;}
+
+.aboutme .info {
+    float: left;
+    width: 70%; 
+    
+}
+.aboutme .info h2, .aboutme .info p {padding-left: 10px;}
+
+.aboutme .hobbies {
+    overflow: hidden;
+    margin: 20px;
+}
+
+.aboutme .hobbies div {
+    float: left;
+    min-height: 110px;
+    width: 50%;
+}
+
+/*end about me */
+
+/*start my skills*/
+.myskills {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.myskills .skills {
+    width: 50%;
+    float: left;
+background-color: #00213e;
+color: aliceblue;
+height: 130px;}
+.myskills .progress {height: 130px;
+    width: 50%;
+    float: left;
+background-color: #00213e;
+color: aliceblue;
+}
+/*end my skills*/
+
+/*start footer*/
+.footer {background-color: #00213e;
+margin: 10px;
+margin-top: 100px;
+overflow: hidden;
+position: relative;
+top: 20px;
+
+}
+.footer div {float: left;
+
+padding-left: 150px;
+position: relative;
+left: 150px;
+color: aliceblue;}
+
+/*end footer*/

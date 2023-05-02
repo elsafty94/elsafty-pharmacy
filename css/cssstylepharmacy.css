@@ -1,0 +1,54 @@
+/*start body*/
+body {width: 100%;
+height: 100%;}
+/*end body*/
+/*start header*/
+.header {width: 100%;
+height: 250px;}
+.header .logo {float: left;
+overflow: hidden;
+margin-left: 60px;}
+.header .search {float: right;
+overflow: hidden;
+margin-top: 40px;
+margin-right: 35px;}
+.header .container {background-color:#00213e;
+float: left;
+margin-top: 30px;
+width: 100%;
+height: 40px;
+text-align: center;
+color: aliceblue;
+}
+.header .container .navbar {padding-top: 9px;}
+.header .container .navbar  span {padding: 15px; font-size: large;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold; text-transform: uppercase;
+}
+/*end header*/
+/*start content*/
+.back {background-image: url("best-health-medical-wordpress-themes-18.png");
+width: 80%;
+height: 600px;
+margin-left: 10%;
+margin-right: 10%;
+overflow: hidden;
+}
+.back .container h2 {color: #82d629;
+text-transform: uppercase;
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+font-weight: bold;}
+.back .container .box1 {background-color: transparent; border: solid #00213e;
+    width: 40%; overflow: hidden; float: right;
+    height: 500px; margin: 10px;
+color: #00213e;
+font-weight: bold;
+line-height: 1.5;}
+.back .container .box2 {background-color: transparent; border: solid #00213e;
+    width: 40%; overflow: hidden; float: left;
+    height: 500px; margin: 10px;
+color: #00213e;
+font-weight: bold;
+line-height: 1.5;}
+/*end content*/
